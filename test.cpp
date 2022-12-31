@@ -8,6 +8,8 @@ template <typename T> int binarnoTrazi (T polje[], int n, T x) {
 
 }
 
+// ciao
+
 
 
 
